@@ -4,11 +4,9 @@
  # Hi I'm Emiliano 👋
 
 <pre>
-💻 I am a front end developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🚩 Interested in Application development functional
+📚 studied front end development at coderhouse
+🚩 I am interested in providing the best user experience, prototyping and usability testing
+🌱 learning new web development technology
 </pre>
 
 <br>   
