@@ -5,6 +5,7 @@
 
 <pre>
 📚 studied front end development at coderhouse
+📚 constantly studying new technologies in web development
 🚩 I am interested in providing the best user experience, prototyping and usability testing
 🌱 learning new web development technology
 </pre>
