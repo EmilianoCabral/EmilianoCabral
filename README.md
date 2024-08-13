@@ -1,4 +1,4 @@
-(https:![Banner Abstracto Blanco y Negro](https://github.com/user-attachments/assets/0f53bb15-ee01-42ae-a205-c547c9b0e682)
+![Banner Abstracto Blanco y Negro](https://github.com/user-attachments/assets/0f53bb15-ee01-42ae-a205-c547c9b0e682)
 
  # Hi I'm Emiliano 👋
 
