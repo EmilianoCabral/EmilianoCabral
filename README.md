@@ -1,6 +1,4 @@
-
-![Banner-para-github](https:![Banner Abstracto Blanco y Negro](https://github.com/user-attachments/assets/0f53bb15-ee01-42ae-a205-c547c9b0e682)
-//github.com/EmilianoCabral/EmilianoCabral/assets/145997720/49ed97df-50e2-4b31-b81c-4e1f57223e61)
+(https:![Banner Abstracto Blanco y Negro](https://github.com/user-attachments/assets/0f53bb15-ee01-42ae-a205-c547c9b0e682)
 
  # Hi I'm Emiliano 👋
 
